@@ -11,7 +11,7 @@
   },
   "dependencies" : {
     "express"         : "~4.7.2",
-    "mongodb"         : "~2.2.19",
+    "mongodb"         : "~3.6.2",
     "morgan"          : "~1.1.1",
     "body-parser"     : "~1.4.3",
     "method-override" : "~2.1.1"
